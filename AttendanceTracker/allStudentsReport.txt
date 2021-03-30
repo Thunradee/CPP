@@ -1,0 +1,11 @@
+No., ID, Name, Absence Num, Recent absence date
+1, 3255, Mort,Kris, 0
+2, 1222, Willis,Bruce, 2, 2019-4-6
+3, 1122, Smith,Jane, 0
+4, 7759, Sam,Theo, 1, 2019-4-6
+5, 5530, Payton,Ella, 0
+6, 2121, James,Hannah, 3, 2019-4-6
+7, 4478, Art,Bruce, 1, 2019-4-6
+8, 1121, Leinart,Timothy, 2, 2019-4-6
+9, 8147, Beck,Sara, 2, 2019-4-6
+10, 1111, Smith,John, 2, 2019-4-6
